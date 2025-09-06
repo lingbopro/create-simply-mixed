@@ -1,0 +1,5 @@
+{
+  "name": "Create Simply Mixed",
+  "version": "0.0.1",
+  "overrides": ["config", "resourcepacks", "options.txt"]
+}

@@ -1,0 +1,18 @@
+build/
+
+##########
+
+# System temporary & directory config files
+
+desktop.ini
+Desktop.ini
+
+.DS_Store
+__MACOSX/
+
+*~
+
+.fuse_hidden*
+.directory
+.nfs*
+nohup.out

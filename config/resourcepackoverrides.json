@@ -1,0 +1,13 @@
+{
+  "schema_version": "2",
+  "default_packs": [
+    "file/CSM Embedded Pack"
+  ],
+  "pack_overrides": {
+    "file/CSM Embedded Pack": {
+      "default_position": "TOP",
+      "fixed_position": true,
+      "required": true
+    }
+  }
+}

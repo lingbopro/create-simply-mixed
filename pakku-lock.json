@@ -6144,46 +6144,6 @@
             ]
         },
         {
-            "pakku_id": "QpBkw4dt6Ht3Gg8U",
-            "type": "MOD",
-            "slug": {
-                "curseforge": "sophisticated-backpacks-create-integration"
-            },
-            "name": {
-                "curseforge": "Sophisticated Backpacks Create Integration"
-            },
-            "id": {
-                "curseforge": "1238567"
-            },
-            "files": [
-                {
-                    "type": "curseforge",
-                    "file_name": "sophisticatedbackpackscreateintegration-1.21.1-0.1.3.13.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "release",
-                    "url": "https://edge.forgecdn.net/files/6569/915/sophisticatedbackpackscreateintegration-1.21.1-0.1.3.13.jar",
-                    "id": "6569915",
-                    "parent_id": "1238567",
-                    "hashes": {
-                        "sha1": "f36ff021a1eebf1e04d036d343c202f569714ae5",
-                        "md5": "5695235eff015ad369d802261e72abd6"
-                    },
-                    "required_dependencies": [
-                        "422301",
-                        "618298",
-                        "328085"
-                    ],
-                    "size": 79203,
-                    "date_published": "2025-05-26T09:40:42.180Z"
-                }
-            ]
-        },
-        {
             "pakku_id": "LHXC9BgxvYbWZskj",
             "type": "MOD",
             "side": "BOTH",

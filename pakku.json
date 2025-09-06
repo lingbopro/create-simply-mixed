@@ -1,6 +1,6 @@
 {
   "name": "Create Simply Mixed",
-  "version": "0.1.0-alpha.2",
+  "version": "0.1.0-alpha.3",
   "description": "Simple & pure Create themed modpack with so many features, without any additional modifications",
   "author": "lingbopro",
   "overrides": ["config"],

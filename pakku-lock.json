@@ -2300,7 +2300,7 @@
             "files": [
                 {
                     "type": "modrinth",
-                    "file_name": "create-dragons-plus-1.4.2.jar",
+                    "file_name": "create-dragons-plus-1.7.1.jar",
                     "mc_versions": [
                         "1.21.1"
                     ],
@@ -2308,41 +2308,18 @@
                         "neoforge"
                     ],
                     "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/CuEpwpMK/create-dragons-plus-1.4.2.jar",
-                    "id": "CuEpwpMK",
+                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/5TRdtuxZ/create-dragons-plus-1.7.1.jar",
+                    "id": "5TRdtuxZ",
                     "parent_id": "dzb1a5WV",
                     "hashes": {
-                        "sha512": "7b13b8a12873eb6cfb7f51b6e8e5110434bf09883f7c7b03ef9c4fb8e9cd291331548836b9cfd72b802115fdf87fa57cbc2d40f10068544d6c131cad800e5439",
-                        "sha1": "1c0368ee9320d1c7eb0acee9f7394f7cafd26ed4"
+                        "sha512": "3180950946b6021b360ba227630e6625ac8fddf52db703196b9f47aec4742a695f9284f1a118cbea8a101201568b648882e149e7b909ca1384b4074c14ffac36",
+                        "sha1": "17145159c0fdb6771a252c2cc9fcc93665d3dc45"
                     },
                     "required_dependencies": [
                         "LNytGWDc"
                     ],
-                    "size": 558453,
-                    "date_published": "2025-04-29T03:48:03.147155Z"
-                },
-                {
-                    "type": "modrinth",
-                    "file_name": "create-dragons-plus-1.7.0.jar",
-                    "mc_versions": [
-                        "1.21.1"
-                    ],
-                    "loaders": [
-                        "neoforge"
-                    ],
-                    "release_type": "beta",
-                    "url": "https://cdn.modrinth.com/data/dzb1a5WV/versions/F7VSvV1i/create-dragons-plus-1.7.0.jar",
-                    "id": "F7VSvV1i",
-                    "parent_id": "dzb1a5WV",
-                    "hashes": {
-                        "sha512": "7aa06bf665782cd1b3139b65a5231646ace5ceae3cdfa656cee6ab52ec030d46bc53cf5d39cdb1850c98713e442c0fb126e9c3d375e2b9b28b775923896b2a13",
-                        "sha1": "2d65fe9224965ba219b535b2b75e0eda6809fdf0"
-                    },
-                    "required_dependencies": [
-                        "LNytGWDc"
-                    ],
-                    "size": 628523,
-                    "date_published": "2025-08-31T01:33:18.759100Z"
+                    "size": 628454,
+                    "date_published": "2025-09-06T00:03:17.607779Z"
                 }
             ]
         },
